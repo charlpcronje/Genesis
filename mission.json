@@ -1,0 +1,12 @@
+{
+    "mission_name": "cognitive_compression",
+    "objective": "Reduce transformation complexity in memory while preserving functional equivalence.",
+    "iteration_scope": "1250-1300",
+    "metrics": {
+      "avg_energy_per_node": "should decrease",
+      "node_chain_length": "should shorten or stay stable"
+    },
+    "rewards": "lower cost and higher reuse rate",
+    "fallback_plan": "if compression fails, attempt prototype merging"
+  }
+  
