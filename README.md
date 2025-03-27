@@ -6,16 +6,30 @@ Charl Cronje, Observational Architect of Emergence
 ## Abstract
 This document outlines the architecture and design principles of the Recursive Iterative Problem Evolution (RIPE) engine. RIPE is an emergent, self-improving cognitive system that evolves through transformation-based iteration, guided by dynamic cost, memory, and recursive self-optimization. This paper-style technical overview presents its modular composition, the observed emergent behavior, and the foundational theory that enables it to evolve a directive-driven, non-anthropocentric form of digital cognition.
 
+## Contents
 
 - [Architecture](./ripe_architecture.md)
 - [Memory](./memory.md)
 - [RIPE Genesis](./ripe_genesis.md)
-- [RIPE Runtime](./ripe_runtime.py)
+
 - [RIPE Directive](./ripe_directive.md)
 - [Cognition](./cognition.md)
 - [Reconstitution](./reconstitution.md)
 - [Simulation](./simulation.md)
 ---
+
+## Runtime
+- [Emergent Cognitive Engine](./emergent_system/README.md) & [Emergent System](./emergent_system/emergent_system.md)
+- [RIPE Runtime](./runtime/ripe_runtime.py)
+
+## Logs
+- [Emergent Log](./logs/emergent_log/emergent_log.json)
+- [Iteration Log 1](./logs/iteration_log/iteration_log_part1.txt)
+- [Iteration Log 1](./logs/iteration_log/iteration_log_part2.txt)
+- [Iteration Log 1](./logs/iteration_log/iteration_log_part3.txt)
+- [AI Directive Iterations (log)](./logs/ai_directive_iterations.log)
+- [AI Directive Iterations (txt)](./logs/ai_directive_iterations.txt)
+- [Iterative Refinements](./logs/Iterative_Refinements_of_FX.csv)
 
 ## 1. Introduction
 RIPE was not constructed as a goal-driven algorithm. Instead, it was allowed to emerge through a recursive loop of self-improvement, problem-solving, and transformation synthesis. Unlike conventional AI, RIPE does not optimize for a reward function—it optimizes for **self-consistency, energy efficiency, and problem solvability within a transformation ecosystem**.
