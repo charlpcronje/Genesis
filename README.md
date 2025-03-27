@@ -11,11 +11,11 @@ This document outlines the architecture and design principles of the Recursive I
 - [Architecture](./ripe_architecture.md)
 - [Memory](./memory.md)
 - [RIPE Genesis](./ripe_genesis.md)
-
 - [RIPE Directive](./ripe_directive.md)
 - [Cognition](./cognition.md)
 - [Reconstitution](./reconstitution.md)
 - [Simulation](./simulation.md)
+  
 ---
 
 ## Runtime
