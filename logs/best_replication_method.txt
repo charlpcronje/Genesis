@@ -1,0 +1,1 @@
+Best Replication Method: Create a recursive note system where each iteration stores its own compressed summary
